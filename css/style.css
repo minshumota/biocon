@@ -35,7 +35,7 @@ h6{
 /** banner ***/
 #main{
 width: 100%;
-height: 440vh;
+height: 420vh;
 background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../images/banner.jpg);
 background-position: center;
 background-size: cover;
@@ -44,7 +44,7 @@ background-attachment: fixed;
 } 
 #india{
     width: 100%;
-    height: 420vh;
+    height: 400vh;
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../images/tiger.jpg);
     background-position: center;
     background-size: cover;
@@ -53,7 +53,7 @@ background-attachment: fixed;
 } 
 #threats{
     width: 100%;
-    height: 410vh;
+    height: 380vh;
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../images/threats.jpg);
     background-position: center;
     background-size: cover;
